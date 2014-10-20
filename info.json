@@ -1,0 +1,10 @@
+{
+  "name": "CartmenElectronics",
+  "version": "1.0.0",
+  "title": "Cartmen's Electronics Mod",
+  "author": "Cartmen180",
+  "contact": "cartmen180@gmail.com",
+  "homepage": "",
+  "description": "Revamps the circuits production tree.",
+  "dependencies": ["base >= 0.10.0","CartmenChemicals >= 1.0.0"]
+}
